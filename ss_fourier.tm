@@ -97,7 +97,7 @@
     </equation*>
 
     <\eqnarray*>
-      <tformat|<table|<row|<cell|f<around*|(|t|)>>|<cell|=>|<cell|<frac|E*\<tau\>|T<rsub|1>>*<frac|2*E*\<tau\>|T<rsub|1>>*<big|sum><rsub|n=1><rsup|\<infty\>>Sa<around*|(|<frac|n*\<pi\>*\<tau\>|T<rsub|1>>|)>*cos<around*|(|n*\<omega\><rsub|1>*t|)>>>|<row|<cell|>|<cell|=>|<cell|<frac|E*\<tau\>|T<rsub|1>>*<big|sum><rsub|n=-\<infty\>><rsup|+\<infty\>>Sa<around*|(|<frac|n*\<omega\><rsub|1>*\<tau\>|2>|)>*\<mathe\><rsup|j*n*\<omega\><rsub|1>*t>*>>>>
+      <tformat|<table|<row|<cell|f<around*|(|t|)>>|<cell|=>|<cell|<frac|E*\<tau\>|T<rsub|1>>*+<frac|2*E*\<tau\>|T<rsub|1>>*<big|sum><rsub|n=1><rsup|\<infty\>>Sa<around*|(|<frac|n*\<pi\>*\<tau\>|T<rsub|1>>|)>*cos<around*|(|n*\<omega\><rsub|1>*t|)>>>|<row|<cell|>|<cell|=>|<cell|<frac|E*\<tau\>|T<rsub|1>>*<big|sum><rsub|n=-\<infty\>><rsup|+\<infty\>>Sa<around*|(|<frac|n*\<omega\><rsub|1>*\<tau\>|2>|)>*\<mathe\><rsup|j*n*\<omega\><rsub|1>*t>*>>>>
     </eqnarray*>
 
     <item>\<#5468\>\<#671F\>\<#952F\>\<#9F7F\>\<#8109\>\<#51B2\>\<#4FE1\>\<#53F7\>

@@ -164,6 +164,66 @@
       f<around*|(|t|)>\<ast\>\<delta\><rsup|<around*|(|k|)>><around*|(|t-t<rsub|0>|)>=f<rsup|<around*|(|k|)>><around*|(|t-t<rsub|0>|)>
     </equation*>
   </enumerate>
+
+  <subsection|\<#7B97\>\<#5B50\>>
+
+  \<#4E3A\>\<#4E86\>\<#7B80\>\<#5316\>\<#65B9\>\<#7A0B\>\<#7684\>\<#4E66\>\<#5199\>\<#548C\>\<#8BA1\>\<#7B97\>\<#FF0C\>\<#5B9A\>\<#4E49\>\<#4E86\>\<#5982\>\<#4E0B\>\<#7B97\>\<#5B50\>\<#7B26\>\<#53F7\>\<#FF1A\>
+
+  <\eqnarray*>
+    <tformat|<table|<row|<cell|p>|<cell|=>|<cell|<frac|\<mathd\>|\<mathd\>t>>>|<row|<cell|<frac|1|p>>|<cell|=>|<cell|<big|int><rsub|-\<infty\>><rsup|t><around*|(|\<cdot\>|)>*\<mathd\>\<tau\>>>|<row|<cell|p<rsup|n>>|<cell|=>|<cell|<frac|\<mathd\><rsup|n>|\<mathd\>t<rsup|n>>>>>>
+  </eqnarray*>
+
+  <subsubsection|\<#7B97\>\<#5B50\>\<#7684\>\<#8FD0\>\<#7B97\>\<#5F8B\>>
+
+  <\enumerate>
+    <item>\<#56E0\>\<#5F0F\>\<#5206\>\<#89E3\>\<#548C\>\<#56E0\>\<#5F0F\>\<#5C55\>\<#5F00\>
+
+    <\equation*>
+      <around*|(|p+a|)>*<around*|(|p+b|)>*x=<around*|[|p*<rsup|2>+p*a+p*b+a*b|]>*x
+    </equation*>
+
+    <item>\<#7B97\>\<#5B50\>\<#4E0D\>\<#53EF\>\<#7EA6\>\<#53BB\>
+
+    \<#5DF2\>\<#77E5\><math|p*x=p*y>\<#FF0C\>\<#4E0D\>\<#53EF\>\<#4EE5\>\<#5F97\>\<#51FA\><math|x=y>
+
+    <item>\<#5FAE\>\<#5206\>\<#548C\>\<#79EF\>\<#5206\>\<#7684\>\<#6B21\>\<#5E8F\>
+
+    <\equation*>
+      p\<cdot\><frac|1|p>*x=x
+    </equation*>
+
+    <\equation*>
+      <frac|1|p>\<cdot\>p*x\<neq\>x
+    </equation*>
+  </enumerate>
+
+  <subsubsection|\<#4F20\>\<#8F93\>\<#7B97\>\<#5B50\>>
+
+  \<#5047\>\<#8BBE\>\<#7CFB\>\<#7EDF\>\<#7684\>\<#5FAE\>\<#5206\>\<#65B9\>\<#7A0B\>\<#5982\>\<#4E0B\>\<#FF1A\>
+
+  <\equation*>
+    <around*|(|C<rsub|0>*p<rsup|n>+C<rsub|1>*p<rsup|n-1>+\<cdots\>+C<rsub|n>|)>*r<around*|(|t|)>=<around*|(|E<rsub|0>*p<rsup|m>+E<rsub|1>*p<rsup|m-1>+\<cdots\>+E<rsub|m>|)>*e<around*|(|t|)>
+  </equation*>
+
+  \<#90A3\>\<#4E48\>\<#FF0C\>\<#65B9\>\<#7A0B\>\<#53EF\>\<#4EE5\>\<#8FDB\>\<#4E00\>\<#6B65\>\<#7F29\>\<#5199\>\<#4E3A\>\<#FF1A\>
+
+  <\equation*>
+    D<around*|(|p|)>*<around*|[|r<around*|(|t|)>|]>=N<around*|(|p|)>*<around*|[|e<around*|(|t|)>|]>
+  </equation*>
+
+  \<#5176\>\<#4E2D\>\<#FF0C\>
+
+  <\eqnarray*>
+    <tformat|<table|<row|<cell|D<around*|(|p|)>>|<cell|=>|<cell|C<rsub|0>*p<rsup|n>+C<rsub|1>*p<rsup|n-1>+\<cdots\>+C<rsub|n>>>|<row|<cell|N<around*|(|p|)>>|<cell|=>|<cell|E<rsub|0>*p<rsup|m>+E<rsub|1>*p<rsup|m-1>+\<cdots\>+E<rsub|m>>>>>
+  </eqnarray*>
+
+  \<#6211\>\<#4EEC\>\<#79F0\>
+
+  <\equation*>
+    H<around*|(|p|)>=<frac|N<around*|(|p|)>|D<around*|(|p|)>>
+  </equation*>
+
+  \<#4E3A\>\<#7CFB\>\<#7EDF\>\<#4F20\>\<#8F93\>\<#7B97\>\<#5B50\>\<#3002\>
 </body>
 
 <\initial>
@@ -187,6 +247,9 @@
     <associate|auto-10|<tuple|3|1>>
     <associate|auto-11|<tuple|2.5.2|2>>
     <associate|auto-12|<tuple|2.5.2.1|2>>
+    <associate|auto-13|<tuple|2.6|?>>
+    <associate|auto-14|<tuple|2.6.1|?>>
+    <associate|auto-15|<tuple|2.6.2|?>>
     <associate|auto-2|<tuple|2.1|0>>
     <associate|auto-3|<tuple|1|0>>
     <associate|auto-4|<tuple|2.2|1>>
